@@ -10,3 +10,11 @@ Local Storage: Implemented local storage to persist user data, allowing users to
 User-friendly Interface: Designed a clean and minimalistic user interface using modern CSS techniques, making the app visually appealing and easy to navigate.
 
 Filter Tasks: Included filtering options for users to easily view all tasks, completed tasks, or pending tasks, enhancing task management capabilities.
+
+
+npx create-react-app react-todo-app
+cd react-todo-app
+
+npm start
+
+
